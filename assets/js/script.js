@@ -23,11 +23,6 @@ for (let i = 0; i < navbarLinks.length; i++) {
 }
 
 
-
-/**
- * header
- */
-
 const header = document.querySelector("[data-header]");
 const backTopBtn = document.querySelector("[data-back-top-btn]");
 
